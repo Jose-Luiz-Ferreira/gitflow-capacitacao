@@ -2,7 +2,7 @@
 
 Essa é a introdução da nossa história.
 Autores:
-  - Talles Alves byron
+- Talles Alves
 
 Desenvolvendo o desenvolvimento.
 Agora arrumamos o bug, está tudo certo.
