@@ -1,6 +1,8 @@
 ## Capitulo 1
 
 Essa é a introdução da nossa história.
+Autores:
+- Talles Alves
 
 Desenvolvendo o desenvolvimento.
 Agora arrumamos o bug, está tudo certo.
